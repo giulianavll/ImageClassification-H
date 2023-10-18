@@ -8,6 +8,10 @@ streamlit = "*"
 numpy = "*"
 pillow = "*"
 requests = "*"
+plotly = "*"
+pandas = "*"
+importlib-resources = "*"
+matplotlib = "*"
 
 [dev-packages]
 
