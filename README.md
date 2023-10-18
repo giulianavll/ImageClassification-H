@@ -16,13 +16,6 @@ developed and deployed with python and streamlit.
   organization={Ieee}
 }
 
-## Test Datasets
-
-Our examples contains vegetable and fruits images :bell_pepper:  :orange: from two kaggel datasets: 
-
-[Yolo_Vegetable_Dataset](https://www.kaggle.com/datasets/rezeliet/yolo-vegetable-dataset)
-
-[Fruits and Vegetables Image Recognition Dataset](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
 
 
 ## Link to the site
@@ -40,4 +33,11 @@ Please remember that to try our site, you'll need a valid HuggingFace token.
 ![alt text](https://github.com/giulianavll/ImageClassification-H/blob/main/images/app_12.png)
 
 
+## Test Datasets
+
+Our examples contains vegetable and fruits images :bell_pepper:  :orange: from two kaggel datasets: 
+
+[Yolo_Vegetable_Dataset](https://www.kaggle.com/datasets/rezeliet/yolo-vegetable-dataset)
+
+[Fruits and Vegetables Image Recognition Dataset](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
 
