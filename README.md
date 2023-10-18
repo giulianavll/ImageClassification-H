@@ -5,7 +5,7 @@ developed and deployed with python and streamlit.
 
 
 ## Model 
-[google/vit-base-patch16-224](https://huggingface.co/google/vit-base-patch16-224)
+We used Google Vision Transformer from HuggingFace [google/vit-base-patch16-224](https://huggingface.co/google/vit-base-patch16-224)
 
 @inproceedings{deng2009imagenet,
   title={Imagenet: A large-scale hierarchical image database},
