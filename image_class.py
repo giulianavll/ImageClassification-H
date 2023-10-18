@@ -92,4 +92,7 @@ if submit_button:
             fig = px.bar(df, x='label', y='probability', color = 'label')
             st.plotly_chart(fig, theme=None, use_container_width=True)
         else:
-            st.write("Please try again later.")
+            if not API_KEY:
+                st.write("Please enter a valid HuggingFace token in the left slidebar.")
+            else:
+                st.write("Please try again later.")
