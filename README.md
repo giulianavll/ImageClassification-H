@@ -23,3 +23,21 @@ Our examples contains vegetable and fruits images :bell_pepper:  :orange: from t
 [Yolo_Vegetable_Dataset](https://www.kaggle.com/datasets/rezeliet/yolo-vegetable-dataset)
 
 [Fruits and Vegetables Image Recognition Dataset](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
+
+
+## Link to the site
+
+Our image classification site was developed using Python and Streamlit, and you can access it [here](https://imageclassification-villanueva.streamlit.app/). 
+Please remember that to try our site, you'll need a valid HuggingFace token.
+
+1. Vegetable example
+
+![alt text](https://github.com/giulianavll/ImageClassification-H/blob/main/images/app_1.png)
+![alt text](https://github.com/giulianavll/ImageClassification-H/blob/main/images/app_2.png)
+
+2. Cat example
+![alt text](https://github.com/giulianavll/ImageClassification-H/blob/main/images/app_11.png)
+![alt text](https://github.com/giulianavll/ImageClassification-H/blob/main/images/app_12.png)
+
+
+
