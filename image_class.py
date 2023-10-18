@@ -17,7 +17,7 @@ st.sidebar.info("This app uses 🤗HuggingFace's [google/vit-base](https://huggi
 st.sidebar.write("\n\n")
 st.sidebar.markdown("**Get a free API key from HuggingFace:**")
 # HuggingFace API KEY input
-API_KEY = st.sidebar.text_input("Enter your HuggingFace API key", value = "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", type="password")
+API_KEY = st.sidebar.text_input("Enter your HuggingFace API key",  type="password")
 st.sidebar.markdown("* Create a [free account](https://huggingface.co/join) or [login](https://huggingface.co/login)")
 st.sidebar.markdown("* Go to **Settings** and then **Access Tokens**")
 st.sidebar.markdown("* Create a new Token (select 'read' role)")
